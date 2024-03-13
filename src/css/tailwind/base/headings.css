@@ -1,0 +1,7 @@
+@layer base {
+    h2 {
+      @apply px-9 text-2xl md:text-4xl font-semibold;
+    }
+  }
+  
+  
